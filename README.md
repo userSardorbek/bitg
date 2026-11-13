@@ -34,7 +34,7 @@ $ bitg old --ascii "Özbekiston şaharlari"
 O'zbekiston shaharlari
 ```
 
-## Nimasi bilan boshqacha
+## Nimasi bilan o'zgacha
 
 | | |
 |---|---|
